@@ -149,3 +149,5 @@ docker run pg -- --user=1 --top=3
 Посилання на опублікований сайт: https://pagerankmusic.netlify.app/
 
 ![Опис фото](photo1_recommendation_system.png)
+
+![pagerank](comp_project/pagerank.png)
