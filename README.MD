@@ -181,7 +181,7 @@ docker run pg -- --user=1 --top=3
 ![Фото сайту №3](photo3_recommendation_system.png)
 ![Фото сайту №4](photo4_recommendation_system.png)
 
-
+Додане відео як працює алгоритм pagerank
 ![pagerank](comp_project/pagerank.png)
 
 
