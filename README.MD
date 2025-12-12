@@ -148,6 +148,8 @@ docker run pg -- --user=1 --top=3
 До презентації було додано відео запуску сайту.
 Посилання на опублікований сайт: https://pagerankmusic.netlify.app/
 
-![Опис фото](photo1_recommendation_system.png)
+![Фото сайту №1](photo1_recommendation_system.png)
+![Фото сайту №2](photo2_recommendation_system.png)
+![Фото сайту №3](photo3_recommendation_system.png)
+![Фото сайту №4](photo4_recommendation_system.png)
 
-![pagerank](comp_project/pagerank.png)
